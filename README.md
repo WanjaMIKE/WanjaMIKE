@@ -4,7 +4,7 @@ I'm a Student, Developer, and Lover of all Things Technology!!
 
 🔭 I just launched my 10th laravel website
 
-🌱 I’m currently a contributor @section.io 🤣
+🌱 I’m currently a contributor @section.io
 
 👯 I’m looking to collaborate with other content creators
 
